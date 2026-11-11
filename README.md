@@ -1,6 +1,6 @@
 # Hi, I'm Sol111-Afk 👋
 
-Offensive security · 3rd-year CS student · Romania
+
 
 ## 🛡️ Security Research
 | Advisory | Project | Severity | Issue |
